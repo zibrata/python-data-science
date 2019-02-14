@@ -1,5 +1,5 @@
 # Python for Data Analysis
-## Alexandre Levret - 5A spé FinTech
+## Alexandre Levret - 5A IBO spé FinTech
 
 <h2>Base de données</h2>
 <p>Statlog (Landsat Satellite)</p>
